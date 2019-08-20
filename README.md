@@ -1,4 +1,4 @@
-# Denoise SPECT images with Deep Image Prior
+# Denoise SPECT images with the Deep Image Prior
 Deep Image Prior (DIP) was discribed in:
 
 <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.pdf">Ulyanov, Dmitry, et al. "Deep Image Prior." The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 9446-9454.</a>
