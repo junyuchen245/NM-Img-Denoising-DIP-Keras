@@ -15,3 +15,5 @@ For simplest testing, input noisy image is a 2D slice of a 3D PET image with the
 ![](https://github.com/junyuchen245/SPECT-Img-Denoising-DIP/blob/master/sample_img/var=005.png)
 #### Variance = 0.01:
 ![](https://github.com/junyuchen245/SPECT-Img-Denoising-DIP/blob/master/sample_img/var=01.png)
+
+### <a href="https://junyuchen245.github.io"> About Myself</a>
